@@ -1,2 +1,2 @@
-# ML
-Machine Learning codes
+# Machine learning
+ML codes
